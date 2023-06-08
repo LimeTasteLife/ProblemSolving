@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But don't ignore directories and .cpp files
+!*/
+!.vscode/*.json
+!*.cpp
+!*.gitignore
