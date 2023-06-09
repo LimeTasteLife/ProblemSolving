@@ -1,8 +1,11 @@
 # Ignore everything
 *
+*.dSYM/
 
 # But don't ignore directories and .cpp files
 !*/
 !.vscode/*.json
 !*.cpp
 !*.gitignore
+
+*.dSYM/
